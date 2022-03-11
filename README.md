@@ -22,6 +22,7 @@ $:npm install
 Config ./config.json to set your pool.
 
 DXPOOL for example
+
 {
   "loglevel": -1,
   "miners": [
@@ -37,6 +38,7 @@ DXPOOL for example
     }
   ]
 }
+
 5.Start Mining
 $:npm run dashboard
 
